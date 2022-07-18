@@ -1,0 +1,106 @@
+#contact {
+    padding: 2rem 0;
+}
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 6rem;
+    margin-top: 2rem;
+}
+
+.contact-box-container {
+    width: 25%;
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.contact-box {
+    padding: 1.4rem .8rem;
+    border-radius: .5rem;
+    box-shadow: 0 0 .5rem rgba(0, 0, 0, .1);
+    background-color: var(--color-bg-variant);
+    margin-bottom: 1rem;
+}
+
+.contact-box svg {
+    width: 1.8rem;
+    height: 1.8rem;
+    fill: var(--color-white);
+}
+
+.contact-box-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-white);
+}
+
+.contact-box-text {
+    font-size: .8rem;
+    color: var(--color-light);
+    margin: .5rem 0;
+}
+
+.contact-box-link {
+    font-size: .9rem;
+}
+
+.contact-form {
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form .form-group {
+    margin-bottom: 1rem;
+}
+
+.contact-form .form-group input,
+.contact-form .form-group textarea {
+    width: 100%;
+    border-radius: .2rem;
+    border: 1px solid var(--color-primary-variant);
+    padding: 1.2rem;
+    font-size: .9rem;
+    resize: none;
+    outline: none;
+    background: transparent;
+    color: var(--color-white);
+}
+
+.contact-form .form-group textarea {
+    height: 18rem;
+}
+
+/* ================== MEDIA QUERY =================== */
+
+@media screen and (max-width: 992px) {
+    .contact-container {
+        column-gap: 3rem;
+    }
+
+    .contact-box-container {
+        width: 50%;
+    }
+
+    .contact-form {
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .contact-container {
+        column-gap: 2rem;
+        flex-direction: column;
+    }
+
+    .contact-box-container {
+        width: 100%;
+
+    }
+
+    .contact-form {
+        width: 100%;
+    }
+}
