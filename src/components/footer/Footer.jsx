@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <footer id='footer'>
             <div className='footer-container'>
-                <div className="logo">Sosarena</div>
+                <div className="logo">Sosamson</div>
                 <nav className="menu">
                     <ul>
                         <li>
@@ -64,7 +64,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div className='description'>
-                    © {new Date().getFullYear()} Sosarena. All rights reserved.
+                    © {new Date().getFullYear()} Sosamson. All rights reserved.
                 </div>
             </div>
         </footer>

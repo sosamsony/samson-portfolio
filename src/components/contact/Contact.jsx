@@ -13,8 +13,8 @@ const Contact = () => {
         {
             icon: <AiOutlineMail />,
             title: 'Email',
-            text: 'info@sosarena.com',
-            link: "mailto:info@sosarena.com"
+            text: 'info@sosamson.com',
+            link: "mailto:info@sosamson.com"
         },
         {
             icon: <AiOutlineWhatsApp />,

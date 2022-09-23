@@ -15,13 +15,13 @@ const Testimonials = () => {
             job: 'C.E.O',
             company: 'The Blooming Hub, Canada',
             img: 'https://media-exp1.licdn.com/dms/image/C4D03AQGc2B65gGchQA/profile-displayphoto-shrink_200_200/0/1517572187363?e=2147483647&v=beta&t=ojpRVSBCrL7IJh_XjvLvF1BLmEsXlueU9qgJlBQxsiA',
-            comment: "Samson is a very creative, innovative and diligent tech expert with great ability to create user-friendly designs and development. He is willing to go the extra mile to deliver more than he promised and on time!"
+            comment: "Samson is a very creative and diligent tech expert with great ability to create user-friendly designs and development. He is willing to go the extra mile to deliver more than he promised!"
         },
         {
             name: 'Sahar Ali Elamin',
             job: 'General Manager',
             company: 'Twofour54 Partner',
-            img: 'https://media-exp2.licdn.com/dms/image/C4E03AQGVN5dCQjT5bQ/profile-displayphoto-shrink_800_800/0/1516984230840?e=1661385600&v=beta&t=pWuLvUp4b0xo9KEygVjG4eE_Dz7vf0I4dR7wjt7MB_o',
+            img: 'https://img0cf.b8cdn.com/images/uploads/user_photos/42/33506742_20161207013615.jpg',
             comment: "Based on my experience with Samson, I can say with confidence that he is one of the most naturally talented and hardworking Web Developer with whom I have had the opportunity to work with!"
         },
         {
@@ -43,7 +43,7 @@ const Testimonials = () => {
             job: 'C.E.O',
             company: 'Kingdom Lifestyle Assembly',
             img: 'https://media-exp1.licdn.com/dms/image/C5103AQFdFerhMImwaw/profile-displayphoto-shrink_200_200/0/1579229965707?e=2147483647&v=beta&t=AAHkzaTrLNjHAflWyMvhnHnry8kKTepQhkbUGXXrSII',
-            comment: "In the past years and till now, My brother, Mr. Samson and I have worked on several projects and in all, he has excelled.  He is exceptionally well prepared to start and complete any project successfully."
+            comment: "In the past years and till now, Mr. Samson and I have worked on several projects and in all, he has excelled.  He is exceptionally well prepared to start and complete any project successfully."
         }
     ]
     return (

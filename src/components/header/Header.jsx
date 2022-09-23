@@ -16,7 +16,7 @@ const Header = () => {
                     <small>Front-End Developer</small>
                 </div>
                 <div className="header-buttons">
-                <a href="https://sosarena.com/resume" target="_blank" rel="noopener noreferrer"><ButtonOutline text="Download CV" /></a>
+                <a href="https://sosamson.com/resume" target="_blank" rel="noopener noreferrer"><ButtonOutline text="Download CV" /></a>
                 <a href="http://api.whatsapp.com/send?phone=+971559667157&text=Hello%20Samson%20Sanyaolu.&source=&data=" target="_blank" rel="noopener noreferrer"><Button text="Let's Talk" /></a>
                 </div>
             </div>
@@ -31,7 +31,7 @@ const Header = () => {
                         <BsGithub />
                     </a>
 
-                    <a href="https://sosarena.com/resume" target="_blank" rel="noopener noreferrer">
+                    <a href="https://sosamson.com/resume" target="_blank" rel="noopener noreferrer">
                         <BsFileText />
                     </a>
 
