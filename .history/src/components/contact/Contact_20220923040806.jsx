@@ -13,8 +13,8 @@ const Contact = () => {
         {
             icon: <AiOutlineMail />,
             title: 'Email',
-            text: 'hello@sosamson.com',
-            link: "mailto:hello@sosamson.com"
+            text: 'info@sosamson.com',
+            link: "mailto:info@sosamson.com"
         },
         {
             icon: <AiOutlineWhatsApp />,
@@ -26,7 +26,7 @@ const Contact = () => {
             icon: <RiMessengerLine />,
             title: 'Facebook',
             text: 'Samson Sanyaolu',
-            link: "https://www.facebook.com/sosamsony"
+            link: "https://www.facebook.com/Praiseloading"
         }
     ]
 

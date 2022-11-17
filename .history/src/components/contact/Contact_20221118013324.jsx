@@ -26,7 +26,7 @@ const Contact = () => {
             icon: <RiMessengerLine />,
             title: 'Facebook',
             text: 'Samson Sanyaolu',
-            link: "https://www.facebook.com/sosamsony"
+            link: "https://www.facebook.com/Praiseloading"
         }
     ]
 

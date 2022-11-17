@@ -35,28 +35,28 @@ const Footer = () => {
                 </nav>
                 <div className="social-media">
                     <a
-                        href="https://www.facebook.com/sosamsony"
+                        href="https://www.facebook.com/Praiseloading"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <FaFacebookF />
                     </a>
                     <a
-                        href="https://www.instagram.com/sosamsony"
+                        href="https://www.instagram.com/sosarenaint/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <FaInstagram />
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/sosamsony"
+                        href="https://www.linkedin.com/in/samson-sanyaolu/"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
                         <FaLinkedinIn />
                     </a>
                     <a
-                        href="https://twitter.com/sosamsony"
+                        href="https://twitter.com/sosarenaint"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
