@@ -71,7 +71,7 @@ const Works = () => {
             id: 10,
             title: 'Corona Virus Tracker',
             github: 'https://github.com/sosamsony/Corona-Virus-Tracker',
-            img: 'https://raw.githubusercontent.com/sosamsony/Corona-Virus-Tracker/master/images/virus.png',
+            img: 'https://github.com/sosamsony/Corona-Virus-Tracker/blob/master/images/virus.png',
             live: 'https://corona.sosamson.com/',
         },
         {
