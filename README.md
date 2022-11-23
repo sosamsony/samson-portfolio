@@ -16,7 +16,7 @@ First, copy the command below.
 Then open the terminal screen, come to an area where you want the project to be installed, paste it and run it.
 
 ```
-git clone https://github.com/sosarenaint/react-portfolio.git
+git clone https://github.com/sosamsony/samson-portfolio.git
 ```
 <br />
 After the cloning process, write the name of the project on the terminal screen, paste the code below and run it.
