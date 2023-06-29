@@ -151,8 +151,7 @@ const Works = () => {
             img: 'https://sosamson.com/static/biblemock.png',
             live: 'https://bible.finestwine.org/',
         },
-        ,
-         {
+        {
             id: 22,
             title: 'Seun Richards Brand',
             github: 'https://github.com/sosamsony',
