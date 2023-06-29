@@ -150,7 +150,28 @@ const Works = () => {
             github: 'https://github.com/sosamsony',
             img: 'https://sosamson.com/static/biblemock.png',
             live: 'https://bible.finestwine.org/',
-        }
+        },
+         {
+            id: 22,
+            title: 'Seun Richards',
+            github: 'https://github.com/sosamsony',
+            img: 'https://sosamson.com/static/seunrichards.png',
+            live: 'https://seunrichards.com',
+        },
+        {
+            id: 23,
+            title: 'High Vision Properties',
+            github: 'https://github.com/sosamsony',
+            img: 'https://sosamson.com/static/hvprop.png',
+            live: 'https://hvprops.com',
+        },
+        {
+            id: 24,
+            title: 'Country App',
+            github: 'https://github.com/sosamsony/CountryApp',
+            img: 'https://sosamson.com/static/countryapp.png',
+            live: 'https://sosamson-country-app.vercel.app/',
+        }     
 
     ]
     return (
