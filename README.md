@@ -42,4 +42,4 @@ You can instantly see any error or log records on the console screen.
 
 ## More
 
-For more and any questions you may have, you can reach me on my personal [website] (https://react.sosarena.com/) and make "Pull Request" requests.
+For more and any questions you may have, you can reach me on my personal [website] (https://sosamson.com/) and make "Pull Request" requests.
